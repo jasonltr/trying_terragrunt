@@ -18,3 +18,9 @@ resource "aws_instance" "ec2-vm" {
     Name = "${terraform.workspace}-ec2"
   }
 }
+
+variable "instance_type" {
+  type = string
+  description ="The instance type"
+
+}
