@@ -1,1 +1,3 @@
 /terragrunt/live/prod/vpc/.terragrunt-cache
+/terragrunt/live/qa/vpc/.terragrunt-cache
+/terragrunt/live/stage/vpc/.terragrunt-cache
