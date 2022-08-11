@@ -5,5 +5,5 @@ terraform {
 }
 
 inputs = {
-  instance_type  = "t2.micro"
+  TF_VAR_instance_type  = "t2.micro"
 }
